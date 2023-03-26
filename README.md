@@ -87,3 +87,8 @@ public static void main(String[] args) {
 ```
 
 Cet exemple utilise la méthode invokeLater de SwingUtilities pour créer et afficher l'interface utilisateur Swing de l'application dans un thread séparé.
+
+## Preview
+
+![image](https://user-images.githubusercontent.com/101131248/227778763-1288762a-eee4-49b6-8eeb-3b22933ed3ae.png)
+
